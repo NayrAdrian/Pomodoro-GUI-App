@@ -2,7 +2,7 @@ Pomodoro Timer made with Python and Tkinter for GUI
 The Pomodoro Technique is a time management method in which you do focused work during 25-minute intervals — known as pomodoros — and take a five-minute break.
 
 - Click "Start" to begin 25-minute timer "Focus" session
-- 5 minute break after every "Focus" session
+- 5-minute break after every "Focus" session
 - Every 4 pomodoros (check mark below as "counter"), Take a 20 mins long break
 - Reset button to Reset and Clear all counters and timers.
 
